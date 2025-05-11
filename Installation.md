@@ -9,7 +9,7 @@ Follow these steps to set up and run **SwiftyVolt**:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/BlackWyrm14/SwiftyVolt.git
+   git clone https://github.com/WhiteWrym18/SwiftyVolt.git
    cd swiftyvolt
    ```
 2. Build the project:
